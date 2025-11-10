@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import "./App.css";
 
 function App() {
@@ -146,6 +147,7 @@ function App() {
         </p>
         <p className="blink">_</p>
       </footer>
+      <Analytics />
     </div>
   );
 }
