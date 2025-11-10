@@ -104,13 +104,126 @@ function App() {
           <h2 className="section-title">{">"} SKILLS.SYS</h2>
           <div className="section-content">
             <div className="skill-grid">
-              <div className="skill-item">{">"} JavaScript/TypeScript</div>
-              <div className="skill-item">{">"} React/Next.js</div>
-              <div className="skill-item">{">"} Node.js/Express</div>
-              <div className="skill-item">{">"} SQL/NoSQL</div>
-              <div className="skill-item">{">"} GraphQL</div>
-              <div className="skill-item">{">"} Docker/GitHub Actions</div>
-              <div className="skill-item">{">"} CI/CD</div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} JavaScript/TypeScript</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} React/Next.js</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} Node.js/Express</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} Testing (Unit/E2E/TDD)</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} SQL/NoSQL</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} GraphQL</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} AI/Machine Learning</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} Docker</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} CI/CD</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} React Native</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} Java</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
+              <div className="skill-item">
+                <div className="skill-name">{">"} C</div>
+                <div className="skill-level">
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar filled"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                  <span className="level-bar"></span>
+                </div>
+              </div>
             </div>
           </div>
         </section>
