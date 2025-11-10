@@ -51,6 +51,10 @@ function App() {
                   signals, helping crypto enthusiasts to stay ahead of the curve
                   with clarity and speed.
                 </p>
+                <p className="project-tech">
+                  <strong>{">"} Technical Stack:</strong> n8n, OpenAI, React,
+                  TypeScript, Node.js, Express
+                </p>
                 <span className="project-status">[STATUS: IN_PROGRESS]</span>
               </div>
             </a>
@@ -68,6 +72,10 @@ function App() {
                   keeping Git history clean and organized — all with a single
                   click inside VS Code..
                 </p>
+                <p className="project-tech">
+                  <strong>{">"} Technical Stack:</strong> TypeScript, VS Code
+                  Extension API, Node.js
+                </p>
                 <span className="project-status">[STATUS: COMPLETED]</span>
               </div>
             </a>
@@ -81,6 +89,10 @@ function App() {
                 <p>
                   And many others that never saw the sunlight, but you can
                   explore them on my GitHub page.
+                </p>
+                <p className="project-tech">
+                  <strong>{">"} Technical Stack:</strong> Various technologies
+                  and experiments
                 </p>
                 <span className="project-status">[STATUS: IN_PROGRESS]</span>
               </div>

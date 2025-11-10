@@ -80,6 +80,18 @@
   opacity: 0.9;
 }
 
+.project-tech {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  opacity: 0.85;
+  font-style: italic;
+}
+
+.project-tech strong {
+  font-style: normal;
+  opacity: 1;
+}
+
 .project-status {
   display: inline-block;
   font-size: 0.85rem;
